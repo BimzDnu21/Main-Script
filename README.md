@@ -6,3 +6,7 @@
 
 - Support
 All Executor
+
+# Script
+
+``loadstring(game:HttpGet("https://raw.githubusercontent.com/BimzDnu21/Main-Script/refs/heads/main/Main.lua", true))()``
