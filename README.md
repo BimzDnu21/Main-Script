@@ -6,7 +6,9 @@
 
 
 # Support Executor
-- All Executor
+- All Executor 
+
+- Note : (Xeno Virus/Trojan)
 
 # Script
 
