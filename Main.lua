@@ -11,7 +11,7 @@ local PlaceScripts = {
     [73347831908825]  = "https://raw.githubusercontent.com/BimzDnu21/Hell-Expedition/refs/heads/main/Hell-Expedition.lua",
     [135406051460913] = "https://raw.githubusercontent.com/BimzDnu21/Run-And-Hide-Script/refs/heads/main/Run-Hide-By-Bimz.lua",
     [9872472334] = "https://raw.githubusercontent.com/BimzDnu21/Main-Script/refs/heads/main/Script/Evade.lua",
-    [16208246546] = "https://raw.githubusercontent.com/BimzDnu21/Main-Script/refs/heads/main/Script/Evade.lua",
+    [10118559731] = "https://raw.githubusercontent.com/BimzDnu21/Main-Script/refs/heads/main/Script/Evade.lua",
 }
 
 local TargetExecutorLower = "xeno" -- hanya block executor yang mengandung kata ini (case-insensitive)
@@ -234,4 +234,5 @@ if ok then
 else
     warn("❌ Gagal memuat/jalankan script remote: " .. tostring(err))
 end
+
 
